@@ -1,4 +1,4 @@
-### 使用cnpm替代npm
+### 使用cnpm替代npm(node package manager)
 ```
 官网http://npm.taobao.org/
 
