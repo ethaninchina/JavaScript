@@ -2,7 +2,8 @@
 ```
 官网http://npm.taobao.org/
 
-##先安装node##
+(先安装node)
+
 
 # npm install -g cnpm --registry=https://registry.npm.taobao.org
 # which cnpm
